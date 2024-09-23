@@ -19,7 +19,7 @@ dis_height = 600
 
 # Create display
 dis = pygame.display.set_mode((dis_width, dis_height))
-pygame.display.set_caption('Snake Game by ChatGPT')
+pygame.display.set_caption('Snake Game')
 
 # Clock
 clock = pygame.time.Clock()
